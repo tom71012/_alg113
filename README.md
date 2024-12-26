@@ -9,4 +9,13 @@
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程教材 | https://github.com/ccc113a/py2cs <br/> https://www.hello-algo.com/
 
+[習題一](https://github.com/tom71012/_alg113/blob/main/power.py)
+[習題二](https://github.com/tom71012/_alg113/blob/main/myPermutation.py)
+[習題三](https://github.com/tom71012/_alg113/blob/main/fxy.jpg)
+[期中作業](https://github.com/tom71012/_alg113/blob/main/ray.md)
+[蒙地卡羅法](https://github.com/tom71012/_alg113/blob/main/monte_carlo.py)
+[黎曼積分](https://github.com/tom71012/_alg113/blob/main/riemann.py)
+[判斷程式](https://github.com/tom71012/_alg113/blob/main/will_program_halt.py)
+[說明 P, NP, NP-Complete, P=?NP](https://github.com/tom71012/_alg113/blob/main/pnp.md)
+
 
